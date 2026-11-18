@@ -1,12 +1,69 @@
 [
     {
         "name": "Daily Exercise",
+        "frequency": "Daily",
         "check_ins": [
-            "2026-11-18"
+            {
+                "date": "2026-11-18",
+                "timestamp": "2026-11-18T12:00:00"
+            }
         ]
     },
     {
         "name": "reading book",
+        "frequency": "Daily",
         "check_ins": []
+    },
+    {
+        "name": "Sample: Morning Walk",
+        "frequency": "Daily",
+        "check_ins": [
+            {
+                "date": "2026-11-14",
+                "timestamp": "2026-11-14T07:30:00"
+            },
+            {
+                "date": "2026-11-15",
+                "timestamp": "2026-11-15T07:30:00"
+            },
+            {
+                "date": "2026-11-16",
+                "timestamp": "2026-11-16T07:30:00"
+            },
+            {
+                "date": "2026-11-17",
+                "timestamp": "2026-11-17T07:30:00"
+            },
+            {
+                "date": "2026-11-18",
+                "timestamp": "2026-11-18T07:30:00"
+            }
+        ]
+    },
+    {
+        "name": "Sample: Weekday Reading",
+        "frequency": "Weekdays",
+        "check_ins": [
+            {
+                "date": "2026-11-12",
+                "timestamp": "2026-11-12T20:00:00"
+            },
+            {
+                "date": "2026-11-13",
+                "timestamp": "2026-11-13T20:00:00"
+            },
+            {
+                "date": "2026-11-16",
+                "timestamp": "2026-11-16T20:00:00"
+            },
+            {
+                "date": "2026-11-17",
+                "timestamp": "2026-11-17T20:00:00"
+            },
+            {
+                "date": "2026-11-18",
+                "timestamp": "2026-11-18T20:00:00"
+            }
+        ]
     }
 ]
